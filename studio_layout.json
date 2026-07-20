@@ -1,0 +1,20 @@
+{
+  "lights": [
+    {
+      "kind": "bars",
+      "x": 470,
+      "y": 280,
+      "name": "Bars 1",
+      "segments": 12,
+      "effect": "breathe",
+      "color": [
+        255,
+        60,
+        40
+      ],
+      "speed": 1.0,
+      "brightness": 1.0,
+      "device_ip": null
+    }
+  ]
+}
